@@ -17,7 +17,7 @@ GET_BASE_PATH() {
 
 COMPLETED_PATH() {
     # 完成任务后转移
-    TARGET_DIR="${DOWNLOAD_PATH}/completed"
+    TARGET_DIR="/completed"
 }
 
 RECYCLE_PATH() {
